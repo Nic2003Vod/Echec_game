@@ -6,4 +6,16 @@
 
 #center{
     text-align: center;
+    background-color: blanchedalmond;
+    width: 450px;
+    height: 350px;
+    margin-top: 10%;
+    margin-left: 30%;
+}
+#center table{
+    width: 450px;
+    height: 350px;
+}
+.ft{
+    background-color: rgb(189, 121, 121) !important;
 }
